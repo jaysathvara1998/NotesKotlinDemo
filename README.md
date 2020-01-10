@@ -1,0 +1,2 @@
+# NotesKotlinDemo
+First kotlin demo
